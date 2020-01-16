@@ -37,5 +37,5 @@ qt-deploy-pri还提供一套在构建后复制、删除文件的框架，方便�
 # 未来的开发计划
 待补充
 
-# 如何为qt-deploy-pri共享代码？
+# 如何为qt-deploy-pri添加代码？
 尽管pr。
